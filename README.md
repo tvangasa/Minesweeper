@@ -1,0 +1,3 @@
+Dưới đây là cách viết mã trò chơi Minesweeper bằng Java.Tìm hiểu cách tạo trò chơi Minesweeper bằng Java bằng thư viện đồ họa awt và swing.
+Thông qua hướng dẫn này, bạn sẽ học cách tạo trò chơi kinh điển, dò mìn. Bạn sẽ học cách tạo giao diện người dùng đồ họa (GUI) để hiển thị lưới ô 8x8. Bạn cũng sẽ học cách thêm trình xử lý nhấp để chọn một ô. Với cú nhấp chuột trái, bạn sẽ học cách mở một ô, phát hiện xem ô có chứa mìn không, đếm số lượng mìn xung quanh ô và kiểm tra đệ quy các ô lân cận để đếm số lượng mìn xung quanh các ô đó. Với cú nhấp chuột phải, bạn sẽ học cách đặt và gỡ cờ trên một ô. Sau khi hiểu được logic cốt lõi của trò chơi, bạn sẽ học cách tạo cấp độ bằng cách đặt mìn vào các ô ngẫu nhiên.
+
